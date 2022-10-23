@@ -1,6 +1,3 @@
-# functions_optimisation
-
-
 Techniques applied for functions optimization:
 - Bisection Method
 - Newton's Method
